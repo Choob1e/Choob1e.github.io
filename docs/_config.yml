@@ -1,7 +1,7 @@
 # headers and icon 
-title: khang nguyen
-info: phd cs @ uta
-icon-pic: assets/img/mandu_icon.png
+title: Caden Smith
+info: BS in EE @ TAMU
+icon-pic: assets/img/"Gigem 1000x1000.png"
 
 # exclude these items when generated website in _site/index.html
 exclude:
