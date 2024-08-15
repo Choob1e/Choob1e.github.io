@@ -3,9 +3,6 @@ title: khang nguyen
 info: phd cs @ uta
 icon-pic: assets/img/mandu_icon.png
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://Choob1e.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-
 # exclude these items when generated website in _site/index.html
 exclude:
   - Gemfile
